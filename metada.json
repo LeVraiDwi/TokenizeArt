@@ -3,20 +3,11 @@
   "description": "This is an NFT on Solana, for project tokenizerArt",
   "image": "https://devnet.irys.xyz/EsoHgUnqkWd3ZFczpRfgt49x9rrpc9KQ2kmiMHa4MLdT",
   "external_url": "https://raw.githubusercontent.com/LeVraiDwi/TokenizeArt/refs/heads/main/metada.json",
-  "attributes": [
-    {
-      "trait_type": "trait1",
-      "value": "value1"
-    },
-    {
-      "trait_type": "trait2",
-      "value": "value2"
-    }
-  ],
+  "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://arweave.net/my-image",
+        "uri": "https://devnet.irys.xyz/EsoHgUnqkWd3ZFczpRfgt49x9rrpc9KQ2kmiMHa4MLdT",
         "type": "image/png"
       }
     ],
