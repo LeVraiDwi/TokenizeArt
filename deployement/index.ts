@@ -18,7 +18,7 @@ const umi = createUmi('https://api.devnet.solana.com')
   )
 umi.use(mplTokenMetadata());
 const signer = generateSigner(umi)
-let keypair = umi.eddsa.createKeypairFromSecretKey(new Uint8Array([42,94,42,161,250,122,73,247,57,71,98,32,20,190,208,183,119,213,28,168,78,32,240,116,72,56,208,28,110,168,131,238,221,214,45,189,54,19,96,110,56,56,104,60,184,86,112,145,7,226,51,53,181,9,195,72,196,15,134,191,27,30,133,12]))
+let keypair = umi.eddsa.createKeypairFromSecretKey(new Uint8Array([]))
 umi.use(keypairIdentity(keypair));
 
 // We generate a signer for the Nft
