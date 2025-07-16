@@ -1,0 +1,29 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "createNft": "npx tsx index.ts",
+    "build": "tsc",
+    "uploadImg": "npx tsx uploadImg.ts",
+    "uploadMeta": "npx tsx uploadMetadata.ts",
+    "dothing": "npx tsx utils.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.2.0",
+    "@metaplex-foundation/umi-uploader-irys": "^1.2.0",
+    "@solana/web3.js": "^1.98.2",
+    "arweave": "^1.15.7",
+    "fs": "^0.0.1-security",
+    "node-fs": "^0.1.7",
+    "ts-node": "^10.9.2"
+  },
+  "peerDependencies": {
+    "@metaplex-foundation/umi": "^1.2.0"
+  }
+}
