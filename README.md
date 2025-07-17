@@ -23,6 +23,5 @@ The Solana ecosystem is expanding rapidly, with integrations across DeFi, NFTs, 
 Solana uses a unique Proof of History (PoH) consensus mechanism combined with Proof of Stake (PoS), offering strong security while maintaining high throughput. This makes it a forward-thinking choice for developers focused on innovation.
 
 # NFT
-
-The Nft is deploy on Solana and have the addr: 9R8M5wbo3F24vg5mzk4VTrShN9Uwgdi4feVSevPujtGe
-can be found here: https://explorer.solana.com/address/9R8M5wbo3F24vg5mzk4VTrShN9Uwgdi4feVSevPujtGe?cluster=devnet
+The Nft is deploy on Solana and have the addr: AVapJEjitnwCoQepbZACwX8T244TtKhC91uA5MBygWmS
+can be found here: https://explorer.solana.com/address/AVapJEjitnwCoQepbZACwX8T244TtKhC91uA5MBygWmS/attributes?cluster=devnet

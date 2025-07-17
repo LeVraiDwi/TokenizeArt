@@ -1,0 +1,20 @@
+{
+  "name": "42NFT",
+  "description": "This is an NFT on Solana, for project tokenizerArt",
+  "image": "https://gateway.irys.xyz/32edUmbCW17f5oJB89S5c7MdyYUoDswMtz6Pe1uRWEBg",
+  "external_url": "https://raw.githubusercontent.com/LeVraiDwi/TokenizeArt/refs/heads/main/metada.json",
+  "attributes": [
+      { 
+        "trait_type": "Artiste", "value": "tcosse" 
+      }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.irys.xyz/32edUmbCW17f5oJB89S5c7MdyYUoDswMtz6Pe1uRWEBg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
