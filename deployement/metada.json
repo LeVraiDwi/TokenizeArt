@@ -3,7 +3,11 @@
   "description": "This is an NFT on Solana, for project tokenizerArt",
   "image": "https://devnet.irys.xyz/EsoHgUnqkWd3ZFczpRfgt49x9rrpc9KQ2kmiMHa4MLdT",
   "external_url": "https://raw.githubusercontent.com/LeVraiDwi/TokenizeArt/refs/heads/main/metada.json",
-  "attributes": [],
+  "attributes": [
+    {
+      "artist" : "tcosse"
+    }
+  ],
   "properties": {
     "files": [
       {
